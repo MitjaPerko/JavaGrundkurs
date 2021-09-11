@@ -13,5 +13,6 @@ public class PersonFactoryUebung {
      *
      * Hinweis: String.split, IOTools
      * */
+    // Warum ist das so?
   }
 }
